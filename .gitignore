@@ -1,0 +1,9 @@
+CV/cv
+CV/fonts
+CV/resume
+CV/*.cls
+CV/*.tex
+CV/*.aux
+CV/*.out
+CV/*.synctex
+CV/*.sty
