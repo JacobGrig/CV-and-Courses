@@ -7,3 +7,10 @@ CV/*.aux
 CV/*.out
 CV/*.synctex
 CV/*.sty
+
+Courses/*.cls
+Courses/*.tex
+Courses/*.aux
+Courses/*.out
+Courses/*.synctex
+Courses/*.sty
